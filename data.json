@@ -1,0 +1,112 @@
+
+[
+    {
+      "id": 1,
+      "company_logo": "https://i.ibb.co/yPHHCtd/google-1-1-1.png",
+      "job_title": "Software Engineer",
+      "company_name": "Google LLC",
+      "remote_or_onsite": "Remote",
+      "location": "London",
+      "fulltime_or_parttime": "Full-time",
+      "salary": "$100,000 - $120,000",
+      "job_description": "We are seeking a highly skilled software engineer to join our team. The ideal candidate will have a strong background in software development and be able to work independently.",
+      "job_responsibility": "Develop, test, and maintain software applications using programming languages such as Java, Python, and JavaScript. Collaborate with cross-functional teams to identify and implement new features and improvements. Troubleshoot and debug issues as they arise.",
+      "educational_requirements": "Bachelor's degree in Computer Science or a related field.",
+      "experiences": "3+ years of experience in software development.",
+      "contact_information": {
+        "phone": "123-456-7890",
+        "email": "hr@abcinc.com"
+      }
+    },
+    {
+      "id": 2,
+      "company_logo": "https://i.ibb.co/DQKDvD4/netflix-4-1.png",
+      "job_title": "Graphic Designer",
+      "company_name": "Netflix",
+      "remote_or_onsite": "Onsite",
+      "location": "New York, NY",
+      "fulltime_or_parttime": "Full-time",
+      "salary": "$60,000 - $80,000",
+      "job_description": "We are looking for a talented graphic designer to join our team. The ideal candidate will have a strong portfolio of work and be able to work collaboratively with clients and team members.",
+      "job_responsibility": "Create visual concepts, using computer software or by hand, to communicate ideas that inspire, inform, and captivate consumers. Develop the overall layout and production design for various applications such as advertisements, brochures, magazines, and corporate reports.",
+      "educational_requirements": "Bachelor's degree in Graphic Design or a related field.",
+      "experiences": "2+ years of experience in graphic design.",
+      "contact_information": {
+        "phone": "123-456-7890",
+        "email": "hr@xyzagency.com"
+      }
+    },
+    {
+      "id": 3,
+      "company_logo": "https://i.ibb.co/bBXCL8s/tesla-9-1.png",
+      "job_title": "Marketing Manager",
+      "company_name": "Tesla",
+      "remote_or_onsite": "Onsite",
+      "location": "San Francisco, CA",
+      "fulltime_or_parttime": "Full-time",
+      "salary": "$90,000 - $110,000",
+      "job_description": "We are seeking a dynamic and experienced marketing manager to join our team. The ideal candidate will have a proven track record in developing and executing successful marketing campaigns.",
+      "job_responsibility": "Develop and implement marketing strategies to promote company products or services. Manage and coordinate marketing activities such as market research, advertising, and customer relations. Analyze market trends and recommend changes to marketing and business development strategies.",
+      "educational_requirements": "Bachelor's degree in Marketing or a related field.",
+      "experiences": "5+ years of experience in marketing.",
+      "contact_information": {
+        "phone": "123-456-7890",
+        "email": "hr@abcinc.com"
+      }
+    },
+    {
+      "id": 4,
+      "company_logo": "https://i.ibb.co/qCCvLCd/Group-10021.png",
+      "job_title": "Customer Support",
+      "company_name": "Airbnb",
+      "remote_or_onsite": "Onsite",
+      "location": "San Francisco, CA",
+      "fulltime_or_parttime": "Fulltime",
+      "salary": "$60,000 - $80,000",
+      "job_description": "We are seeking a Customer Support Representative to provide world-class support to our customers.",
+      "job_responsibility": "- Respond to customer inquiries via phone, email, and chat- Troubleshoot technical issues and provide solutions- Escalate issues to appropriate teams when necessary- Provide feedback to product and engineering teams to improve our products- Maintain accurate records of customer interactions and issues",
+      "educational_requirements": "Bachelor's degree in Computer Science, Information Systems, or related field",
+      "experiences": "2+ years of experience in customer support or related field",
+      "contact_information": {
+          "phone": "415-555-1234",
+          "email": "jobs@servicenow.com"
+      }
+  },
+  {
+    "id": 5,
+    "company_logo": "https://i.ibb.co/yPHHCtd/google-1-1-1.png",
+    "job_title": "Sales Representative",
+    "company_name": "Google LLC",
+    "remote_or_onsite": "Remote",
+    "location": "USA",
+    "fulltime_or_parttime": "Fulltime",
+    "salary": "$80,000 - $100,000",
+    "job_description": "We are seeking a Sales Representative to drive sales and revenue growth for our products and services.",
+    "job_responsibility": "- Develop and execute sales strategies- Build and maintain relationships with customers- Collaborate with cross-functional teams to achieve sales goals- Manage the entire sales process, from prospecting to closing deals- Provide feedback to product and engineering teams to improve our products",
+    "educational_requirements": "Bachelor's degree in Business Administration, Marketing, or related field",
+    "experiences": "3+ years of experience in sales or related field",
+    "contact_information": {
+        "phone": "415-555-6789",
+        "email": "jobs@salesforce.com"
+    }
+},
+{
+  "id": 6,
+  "company_logo": "https://i.ibb.co/DQKDvD4/netflix-4-1.png",
+  "job_title": "Data Analyst",
+  "company_name": "Netflix",
+  "remote_or_onsite": "Onsite",
+  "location": "Chicago, IL",
+  "fulltime_or_parttime": "Fulltime",
+  "salary": "$70,000 - $90,000",
+  "job_description": "We are seeking a Data Analyst to collect, analyze, and interpret data to inform business decisions.",
+  "job_responsibility": "- Collect and analyze data using statistical techniques- Develop data models and visualizations- Collaborate with cross-functional teams to identify business insights- Identify trends and patterns in data- Present findings to stakeholders",
+  "educational_requirements": "Bachelor's or Master's degree in Mathematics, Statistics, or related field",
+  "experiences": "2+ years of experience in data analysis or related field",
+  "contact_information": {
+      "phone": "312-555-1234",
+      "email": "jobs@dataco.com"
+  }
+}
+]
+    
